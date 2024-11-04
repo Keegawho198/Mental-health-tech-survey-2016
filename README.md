@@ -5,16 +5,9 @@ Link to dataset:
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016/data
 
 
-
-Group Members
-- Keegan
-- Lishi
-- Jane
-- Loku
+Note: this is an extension on my previous project, I have created this one to further extend my curiuosity. If anyone would like to see the origin github project just follow this link: https://github.com/Keegawho198/Project-1_Mental-Health
 
 
-Analysis
-Keegan
 
 **Mental Health Treatment Seeking (USA vs Outside USA)**
 
