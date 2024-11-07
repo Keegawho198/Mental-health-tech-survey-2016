@@ -3,11 +3,6 @@
 Link to dataset:
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016/data
 
-    ReadMe edit
-  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
-
-
-
 # Project – Mental Health in Tech Companies 2016
 
 To save you time, here is the summary of this project. For a more detailed explanation of how our data was extracted, cleaned and visualized feel free to read past the TLDR.
@@ -288,6 +283,10 @@ To summarize, addressing mental health in the workplace requires a multifaceted 
 •	Or begin to research how a well-being initiative can benefit an individual.
 
 
+
+
+    ReadMe edit
+  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 
 
   
