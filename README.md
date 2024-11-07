@@ -64,7 +64,9 @@ First, we broke down our main question into 3 sub-questions to find a clearer an
 Our sub-questions were:
 
 •	Do you think you have a mental disorder?
+
 •	Do you think your productivity is ever affected by mental health issues?
+
 •	What percentage of your work time is affected by mental health issues?
 
 We first looked at the question: Do you think you have a mental disorder?
@@ -100,10 +102,15 @@ The overwhelming majority indicating that their productivity is affected suggest
 Our final sub-question was: What percentage of your work time is affected by a mental health issue?
 
 When it comes to the extent to which mental health disorders interfere with work, the responses were as follows: 
+
 •	39.1% indicated minimal influence (1-25%)
+
 •	31.8% reported moderate influence (26-50%)
+
 •	18.2% noted moderate to severe influence(51-75%)
+
 •	10% believed that mental health disorders could have a substantial impact on their work (76-100%).
+
 
 The fact that 39.1% of respondents reported minimal influence (1-25%) indicates that a significant portion of individuals may be managing their mental health challenges effectively.
 With 31.8% reporting moderate influence, it indicates that a substantial number of individuals experience some level of disruption in their work due to mental health issues.
@@ -168,6 +175,7 @@ Numbers below
 ![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/mental_health_treatment_responses.png)
  
 USA - YES: 550 (65.48%)- NO: 289 (34.52%)
+
 Outside USA - Yes: 290 (48.74%) - NO: 304 (51.26%)
 
 
@@ -205,6 +213,7 @@ This reinforces the notion that mental health may be prioritized more highly in 
 
 ![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/HelpOfferedInWorkplaces.png)
 Data percentages USA yes: 33%, NO: 40%, IDK: 27% 
+
 Outside USA: YES: 18%, no: 63%, IDK: 19%
 
 
@@ -269,9 +278,13 @@ Finally, high amounts of employees believe their productivity is affected. This 
 To summarize, addressing mental health in the workplace requires a multifaceted approach that includes raising awareness, reducing stigma, and providing accessible resources. By prioritizing mental health, organizations can foster a healthier, more inclusive workplace culture that ultimately benefits both employees and the overall productivity of the organization.
 
 ## Final Suggestions
+
 •	Make sure employees know that their workplace has a well-being program.
+
 •	Reinforce it by mentioning it in meetings and hanging posters around the office.
+
 •	Companies that don’t have one should implement one that is working.
+
 •	Or begin to research how a well-being initiative can benefit an individual.
 
 
