@@ -10,6 +10,7 @@ To save you time, here is the summary of this project. For a more detailed expla
 ## Summary  TLDR:
 Mental health in the tech workplace is marked by stigma, gender disparities in seeking help, and significant challenges despite available support. Many employees feel their productivity is impacted, highlighting the need for comprehensive mental health initiatives. A multifaceted approach is essential, focusing on awareness, stigma reduction, and accessible resources to foster a healthier workplace culture that benefits both employees and productivity.
 
+Note: The report doc contains this analysis.
 
 --------------------------------------------------------------------------------------------------------
 ## Project Analysis
@@ -283,6 +284,9 @@ To summarize, addressing mental health in the workplace requires a multifaceted 
 •	Or begin to research how a well-being initiative can benefit an individual.
 
 
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 
 
     ReadMe edit
