@@ -5,10 +5,6 @@ Link to dataset:
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-2016/data
 
 
-Note: this is an extension on my previous project, I have created this one to further extend my curiuosity. If anyone would like to see the origin github project just follow this link: https://github.com/Keegawho198/Project-1_Mental-Health
-
-
-
 **Mental Health Treatment Seeking (USA vs Outside USA)**
 
 Our data indicates that individuals in the USA are significantly more likely to seek mental health treatment, with the number of responses seeking help being doubled compared to countries outside the USA.a
@@ -200,70 +196,7 @@ Suggestions
 
 
 
----
-
-# Github commands
-
-To create a new branch and then merge it into the main branch, you can follow these steps:
-
-1. Create a new branch: (Where we will all work on our own work)
-    
-    ```
-    git branch <branch_name>
-    
-    ```
-    
-2. Checkout the new branch: (Make sure we use that new branch)
-    
-    ```
-    git checkout <branch_name>
-
-    Replace `<branch_name>` with the name you want for your new branch.
-
-    
-    ```
-    
-3. Make your changes, then add and commit them:
-    
-    ```
-    git add .
-    git commit -m "Your commit message"
-    
-    ```
-    
-4. Switch back to the main branch:
-    
-    ```
-    git checkout main
-    
-    ```
-    
-5. Pull the latest changes from the main branch:
-    
-    ```
-    git pull origin main
-    
-    ```
-    
-6. Merge your new branch into the main branch:
-    
-    ```
-    git merge <branch_name>
-    
-    ```
-    
-7. Finally, push the changes to GitHub:
-    
-    ```
-    git push origin main
-
-    or
-
-    git push origin <Branch Name>
-    ```
-
 
 
     ReadMe edit
-    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
 
